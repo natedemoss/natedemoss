@@ -1,6 +1,6 @@
 I am a student at Cary academy, focusing on computer science and physics. 
-![natedemoss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=natedemoss&theme=vue-dark&hide_border=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natedemoss)](https://github.com/natedemoss/github-readme-stats)
+[![Nate's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=natedemoss)](https://github.com/natedemoss/github-readme-stats)
 
 
 Languages:
