@@ -18,6 +18,6 @@ Interests:
 
 
 Websites made:
-[api-key-databse.vercel.app](https://api-key-database.vercel.app/) - Api Database containing popular api keys
-[docu-ai-git.vercel.app](https://docu-ai-git.vercel.app/) - Website that uses AI to generate readme files for github repos
+- [api-key-databse.vercel.app](https://api-key-database.vercel.app/) - Api Database containing popular api keys
+- [docu-ai-git.vercel.app](https://docu-ai-git.vercel.app/) - Website that uses AI to generate readme files for github repos
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natedemoss&theme=github-dark-blue&border_radius=4.4)](https://git.io/streak-stats)
