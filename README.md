@@ -1,4 +1,4 @@
-I am a student at Cary academy, focusing on computer science and physics. 
+I am a student at Cary academy.
 
 
 Languages:
