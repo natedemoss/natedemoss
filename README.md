@@ -1,6 +1,3 @@
-I am a student at Cary academy.
-
-
 Languages:
 ![Static Badge](https://img.shields.io/badge/Python-Yellow)
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
