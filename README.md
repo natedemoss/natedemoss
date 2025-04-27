@@ -15,7 +15,7 @@
 
 
 # Websites made:
-- [docu-ai-git.vercel.app](https://docu-ai-git.vercel.app/) - Website that uses AI to generate readme files for github repos
+- [docu-ai-git.vercel.app](https://docu-ai-git.vercel.app/) - Website that uses AI to generate readme files for GitHub repos
 - [api-key-databse.vercel.app](https://api-key-database.vercel.app/) - Api Database containing popular api keys
 
 
