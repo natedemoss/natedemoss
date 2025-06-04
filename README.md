@@ -8,7 +8,7 @@
 
 # Interests:
 ![Static Badge](https://img.shields.io/badge/robotics-purple)
-![Static Badge](https://img.shields.io/badge/saas-green)
+![Static Badge](https://img.shields.io/badge/Quant%20Finance-green)
 ![Static Badge](https://img.shields.io/badge/AI-orange)
 ![Static Badge](https://img.shields.io/badge/engineering-grey)
 ![Static Badge](https://img.shields.io/badge/web_dev-red)
