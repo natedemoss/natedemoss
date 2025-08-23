@@ -15,8 +15,9 @@
 ![Static Badge](https://img.shields.io/badge/web_dev-red)
 
 
-# Websites made:
+# Websites/projects made:
 - [https://spark-ai-website.vercel.app/](https://spark-ai-website.vercel.app/) - AI desktop agent
+- [https://github.com/natedemoss/Strategy-Backtester](https://github.com/natedemoss/Strategy-Backtester) - Python backtester
 - [docu-ai-git.vercel.app](https://docu-ai-git.vercel.app/) - Website that uses AI to generate readme files for GitHub repos
 - [physics-help.vercel.app](https://physics-help.vercel.app/) - Contains physics simulations
 
