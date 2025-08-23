@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-darkblue)
 ![Static Badge](https://img.shields.io/badge/lua-purple)
 ![Static Badge](https://img.shields.io/badge/C++-pink)
-![Static Badge](https://img.shields.io/badge/C#-navy)
+![Static Badge](https://img.shields.io/badge/C#-grey)
 # Interests:
 ![Static Badge](https://img.shields.io/badge/robotics-purple)
 ![Static Badge](https://img.shields.io/badge/Quant%20Finance-green)
