@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude&logoColor=orange)
 
 ## Interests:
 ![Static Badge](https://img.shields.io/badge/robotics-purple)
