@@ -1,7 +1,10 @@
-# Languages:
+# Hi! I'm Nathan
+I'm a high school student who loves contributing to open source!
+
+## Languages:
 [Python, Java, Javascript, C, C++, C#, HTML/CSS, Rust, Kotlin, Lua, SQL, Go, R]
 
-# Top tech stacks
+## Top tech stacks
 ![Static Badge](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
