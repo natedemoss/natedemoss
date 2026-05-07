@@ -18,7 +18,7 @@ High school student from Raleigh who loves building things and contributing to o
 
 | Project | Description | Stars |
 |---|---|---|
-| [TeamMind](https://github.com/natedemoss/Teammind) | Git-aware persistent memory for Claude Code teams | ![Stars](https://img.shields.io/github/stars/natedemoss/Teammind?style=flat-square) |
+| [TeamMind](https://github.com/natedemoss/Teammind) | Git-aware persistent memory for Claude Code teams — 713 users | ![Stars](https://img.shields.io/github/stars/natedemoss/Teammind?style=flat-square) |
 | [Claude Code Wrapped](https://github.com/natedemoss/Claude-Code-Wrapped-Skill) | Spotify Wrapped for your Claude Code sessions — CLI slideshow skill | ![Stars](https://img.shields.io/github/stars/natedemoss/Claude-Code-Wrapped-Skill?style=flat-square) |
 | [papermarket](https://github.com/natedemoss/papermarket) | Paper-trading prediction market — 1,167+ users | ![Stars](https://img.shields.io/github/stars/natedemoss/papermarket?style=flat-square) |
 | [Spark AI](https://github.com/natedemoss/Spark-AI) | Invisible AI agent for desktops — 500+ users | ![Stars](https://img.shields.io/github/stars/natedemoss/Spark-AI?style=flat-square) |
