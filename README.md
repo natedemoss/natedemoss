@@ -2,7 +2,7 @@
 
 # Nathan DeMoss
 
-**15 · NC · Passionate about AI and open source**
+**15 · NC · AI and open source**
 
 [![Email](https://img.shields.io/badge/ndemoss28@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ndemoss28@gmail.com)
 
@@ -10,7 +10,6 @@
 
 ---
 
-High school student from Raleigh who loves building things and contributing to open source. I'm mostly interested in AI, robotics, and engineering.
 
 ---
 
