@@ -17,10 +17,10 @@
 
 | Project | Description | Stars |
 |---|---|---|
-| [TeamMind](https://github.com/natedemoss/Teammind) | Git-aware persistent memory for Claude Code teams — 728 users | ![Stars](https://img.shields.io/github/stars/natedemoss/Teammind?style=flat-square) |
+| [TeamMind](https://github.com/natedemoss/Teammind) | Git-aware persistent memory for Claude Code teams — 735 users | ![Stars](https://img.shields.io/github/stars/natedemoss/Teammind?style=flat-square) |
 | [Claude Code Wrapped](https://github.com/natedemoss/Claude-Code-Wrapped-Skill) | Spotify Wrapped for your Claude Code sessions — CLI slideshow skill | ![Stars](https://img.shields.io/github/stars/natedemoss/Claude-Code-Wrapped-Skill?style=flat-square) |
 | [papermarket](https://github.com/natedemoss/papermarket) | Paper-trading prediction market — 1,167+ users | ![Stars](https://img.shields.io/github/stars/natedemoss/papermarket?style=flat-square) |
-| [Spark AI](https://github.com/natedemoss/Spark-AI) | Invisible AI agent for desktops — 500+ users | ![Stars](https://img.shields.io/github/stars/natedemoss/Spark-AI?style=flat-square) |
+| [Spark AI](https://github.com/natedemoss/Spark-AI) | Invisible AI agent for desktops | ![Stars](https://img.shields.io/github/stars/natedemoss/Spark-AI?style=flat-square) |
 | [claude-code-skills](https://github.com/natedemoss/claude-code-skills) | Collection of Claude Code skills | ![Stars](https://img.shields.io/github/stars/natedemoss/claude-code-skills?style=flat-square) |
 
 ---
