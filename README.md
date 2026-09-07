@@ -1,3 +1,3 @@
-https://natedemoss.github.io/
+https://natedemoss.dev
 
 junior in high school 
